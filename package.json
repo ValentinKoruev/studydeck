@@ -1,0 +1,9 @@
+{
+  "name": "studydeck",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Flashcard web app with spaced repetition for university students",
+  "scripts": {
+    "lint": "echo \"lint placeholder — real config lands in SP-12\" && exit 0"
+  }
+}
